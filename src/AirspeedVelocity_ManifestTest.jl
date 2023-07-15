@@ -1,0 +1,2 @@
+module AirspeedVelocity_ManifestTest
+end
